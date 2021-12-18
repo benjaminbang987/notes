@@ -1,2 +1,2 @@
 # notes
-Notes on everything and anything
+Notes on anything
